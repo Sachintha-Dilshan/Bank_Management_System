@@ -1,0 +1,4 @@
+Saving Account|5
+Personal Loan|6
+Home Loan|6.5
+Education Loan|4
